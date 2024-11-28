@@ -1,0 +1,98 @@
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\appsettings.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.staticwebassets.runtime.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.staticwebassets.endpoints.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.exe
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.deps.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.runtimeconfig.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\bin\Debug\net9.0\User Registeration.pdb
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.AssemblyInfoInputs.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.AssemblyInfo.cs
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.RazorAssemblyInfo.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.RazorAssemblyInfo.cs
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\scopedcss\bundle\User Registeration.styles.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\scopedcss\projectbundle\User Registeration.bundle.scp.css
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\yasmkrjufs-b9sayid5wm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\yt2gtu3sxs-61n19gt1b8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\zsvmogzu9k-xtxxf3hu2r.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\8tnp8evt15-bqjiyaj88i.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\cg7uc43qbq-c2jlpeoesf.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\bmqvnuzxj8-erw9l3u2r3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\pc26milwo7-aexeepp0ev.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\0hjblg3y84-d7shbmvgxk.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\qpw9begmry-ausgxo2sd3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\mpjxh44goi-k8d9w2qqmf.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\coa5jpd9ki-cosvhxvwiu.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\6swdb3yht9-ub07r2b239.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\ssctpk0euk-fvhpjtyr6v.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\g319xstjhb-b7pk76d08c.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\sjdfli0ax1-fsbi9cje9m.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\ws8elyitqs-rzd6atqjts.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\47gceywg8j-ee0r1s7dh0.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\d5rqd179nl-dxx9fxp4il.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\yjb812qwte-jd9uben2k1.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\z2c3g9kpgy-khv3u5hwcm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\kkhz1lybtp-r4e9w2rdcm.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\9e5bqx2w1g-lcd1t2u6c8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\8s7xv8p816-c2oey78nd0.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\nrx2wxmb4y-tdbxkamptv.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\6x8jltd9nu-j5mq2jizvt.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\orjymv3b3x-06098lyss8.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\0qrhr2577r-nvvlpmu67g.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\iz63sypd38-s35ty4nyc5.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\jet68c512r-pj5nd1wqec.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\a69uhuwfg2-46ein0sx1k.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\kldayg1ylw-v0zj4ognzu.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\8t4g1dljtw-37tfw0ft22.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\u3rett10ik-hrwsygsryq.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\6qvzn3cjg9-pk9g2wxc8p.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\ndustnoy17-ft3s53vfgj.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\iacvc38zgr-6cfz1n2cew.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\6eieagxz17-6pdc2jztkx.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\soczhhs9cy-493y06b0oq.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\cj9j28tqn4-iovd86k7lj.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\segi1e5ubz-vr1egmr9el.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\2qipw6ny6t-kbrnm935zg.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\3whnvsc5u3-jj8uyg4cgr.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\05q1g9x1gt-y7v9cxd14o.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\ib7qqmoc0x-notf2xhcfb.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\tj5omu5x3f-h1s4sie4z3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\b98b9t7g2q-63fj8s7r0e.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\8czpmoaeiq-0j3bgjxly4.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\rnz66kwkpz-47otxtyo56.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\cm2ppbuyfo-4v8eqarkd7.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\fvryb7gau1-356vix0kms.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\gcc6bqsgnz-83jwlth58m.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\13433um41m-mrlpezrjn3.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\8t84vi7kla-lzl9nlhx6b.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\4u1y8un4yc-ag7o75518u.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\cx9zh7lb2m-x0q3zqp4vz.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\2bznys3u3m-0i3buxo5is.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\2nnbwgqevv-o1o13a6vjx.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\5d7v6o67ww-ttgo8qnofa.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\1rmd6jwwcd-2z0ns9nrw6.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\4b8be56set-muycvpuwrr.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\uixyu7b6ab-87fc7y1x7t.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\sicug3jylj-mlv21k5csn.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\f7yptxt1al-7lmx2dy31z.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\compressed\ns5n4jwxpm-7lmx2dy31z.gz
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets\msbuild.User Registeration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets\msbuild.User Registeration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets\msbuild.build.User Registeration.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.User Registeration.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.User Registeration.props
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\refint\User Registeration.dll
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.pdb
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\User Registeration.genruntimeconfig.cache
+C:\Users\TAHA\OneDrive\Desktop\Assignment\User Registeration\User Registeration\obj\Debug\net9.0\ref\User Registeration.dll
